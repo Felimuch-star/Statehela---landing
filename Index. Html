@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Join Statehela and Start Earning</title>
+  <style>
+    body { font-family: Arial, sans-serif; background-color: #f5f7fa; margin: 0; padding: 0; }
+    .container { max-width: 600px; margin: 40px auto; background: white; padding: 30px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+    h1 { color: #2b6cb0; }
+    p { line-height: 1.6; }
+    .cta-btn { background-color: #38a169; color: white; padding: 15px 20px; text-align: center; display: block; margin: 20px 0; border-radius: 5px; text-decoration: none; font-weight: bold; }
+    .cta-btn:hover { background-color: #2f855a; }
+    .proof-img { width: 100%; border-radius: 8px; margin-top: 15px; }
+    .bonus { background-color: #ebf8ff; padding: 15px; border-left: 5px solid #3182ce; margin-top: 20px; border-radius: 5px; }
+    .contact { margin-top: 20px; font-size: 15px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Earn Daily Income Online with Statehela</h1>
+    <p>Join thousands of people making money from their phones by doing simple online tasks and referring others. It’s fast, easy, and legit!</p>
+
+    <h3>How It Works</h3>
+    <ul>
+      <li>Register using the button below</li>
+      <li>Activate your account with a one-time fee</li>
+      <li>Start earning from daily tasks and referrals</li>
+    </ul>
+
+    <img src="https://via.placeholder.com/500x300?text=Earning+Proof" alt="Earning Proof" class="proof-img" />
+
+    <a href="https://statehela.com/register.php?ref=Astrogirl" class="cta-btn">Register Now</a>
+
+    <div class="bonus">
+      <strong>Bonus:</strong> Register through my link and get a free step-by-step guide and 100MB of free airtime/data!
+    </div>
+
+    <div class="contact">
+      Need help? Chat with me on WhatsApp: <strong>+254768107609</strong>
+    </div>
+  </div>
+</body>
+</html>
